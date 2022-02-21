@@ -1,0 +1,54 @@
+[
+    {
+        "name": "user1",
+        "password": "pw1",
+        "todos": [
+            "random message",
+            "asdfasdfas",
+            "todo13333",
+            "todo2",
+            "probatodo",
+            "todooooooooooooooooooooo",
+            "asdfasdf",
+            "agrg3456t45y3y",
+            "asdfa34563455uy43656ui",
+            "43yhtrjtryj",
+            "random random messageasdfasdfasdfagsfdgads",
+            "12wsfdsvdgnfgdh",
+            "12wsfdsfdsht4557475686789vdgnfgdh",
+            "asdf",
+            "weart",
+            "still logeged in"
+        ]
+    },
+    {
+        "name": "user2",
+        "password": "pw2",
+        "todos": [
+            "random random message",
+            "asdfghjkl",
+            "sdfasfqw4e13245213542134"
+        ]
+    },
+    {
+        "name": "user3",
+        "password": "pw3",
+        "todos": [
+            "todo1"
+        ]
+    },
+    {
+        "name": "user7",
+        "password": "pw7",
+        "todos": [
+            "todo1"
+        ]
+    },
+    {
+        "name": "user4",
+        "password": "pw4",
+        "todos": [
+            "todo1"
+        ]
+    }
+]
